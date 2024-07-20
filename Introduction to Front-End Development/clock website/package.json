@@ -1,0 +1,12 @@
+{
+    "name": "example-clock",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "scripts": {
+      "start": "node clock.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
