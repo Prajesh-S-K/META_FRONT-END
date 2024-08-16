@@ -1,0 +1,21 @@
+# Bootstrap Styles :
+
+- Bootstrap CSS classes and modifiers are used to design websites that easily adapt to different devices, platforms, and screen sizes.
+- Bootstrap has a large CSS library built by its developers, which includes thousands of use cases.
+- In fixes are used for responsive breakpoints in the Bootstrap grid system. Breakpoints are triggers for how the layout changes across different device or viewpoint sizes.
+- The responsive breakpoints available in Bootstrap are:
+  - Extra small: ` ` for screens less than 576 pixels wide.
+  - Small: `sm` for screens greater than or equal to 576 pixels wide.
+  - Medium: `md` for screens greater than or equal to 768 pixels wide.
+  - Large: `lg` for screens greater than or equal to 992 pixels wide.
+  - Extra large: `xl` for screens greater than or equal to 1200 pixels wide.
+  - Extra extra large: `xxl` for screens greater than or equal to 1400 pixels wide.
+- Extra small is the default breakpoint in Bootstrap CSS rules as it follows a mobile-first approach.
+- Modifiers are used to change the appearance of elements. For example, the alert primary CSS class displays an alert using Bootstrap's primary color, which is blue.
+- The available modifiers in Bootstrap are: primary, secondary, success, info, warning, danger, light, and dark.
+- Bootstrap components provide a pre-built set of reusable UI styles and elements for web applications.
+- Alerts are often used to show information that needs immediate attention from users, such as warnings, errors, or confirmation messages.
+- Different types of alerts in Bootstrap are distinguished by the color used to display the predefined alert message.
+- To use in fixes and modifiers in code, you need to add them to the CSS class names. For example, to change a column rule for large screens, you can add `col-lg-6` to the CSS class.
+- To add an alert component, you can use the `alert` CSS class followed by the contextual class, such as `alert-primary`.
+- Modifiers can be used to change the color of the alert. For example, `alert-danger` will display the alert in red.
