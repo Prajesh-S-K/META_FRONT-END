@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming_with_JS/6.Introduction_to_OOP/This is a git test for obsidian.md",
+                "file": "Programming_with_JS/6.Introduction_to_OOP/2.classes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming_with_JS/6.Introduction_to_OOP/This is a git test for obsidian.md",
+                "file": "Programming_with_JS/6.Introduction_to_OOP/2.classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming_with_JS/6.Introduction_to_OOP/This is a git test for obsidian.md",
+                "file": "Programming_with_JS/6.Introduction_to_OOP/2.classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming_with_JS/6.Introduction_to_OOP/This is a git test for obsidian.md"
+                "file": "Programming_with_JS/6.Introduction_to_OOP/2.classes.md"
               }
             }
           },
@@ -157,11 +157,18 @@
   },
   "active": "c8e638c02acbad21",
   "lastOpenFiles": [
-    "Untitled.md",
     "Programming_with_JS/6.Introduction_to_OOP/This is a git test for obsidian.md",
+    "Programming_with_JS/Modules.md",
+    "Programming_with_JS/5.Introduction_to_functional_programming/1.introduction_to_functional_programming.md",
+    "Programming_with_JS/5.Introduction_to_functional_programming/2.function_calling&recursion.md",
+    "Programming_with_JS/5.Introduction_to_functional_programming/3.functional_programing.md",
+    "Programming_with_JS/2.Conditionals_&_loops/3.looping_construct.md",
+    "Programming_with_JS/3.Array,Objects&Functions/6.1.math_object.md",
+    "Programming_with_JS/3.Array,Objects&Functions/7.closer_look_at_strings.md",
+    "Programming_with_JS/3.Array,Objects&Functions/7.1.strings_cheat_sheet.md",
+    "Untitled.md",
     "Programming_with_JS/6.Introduction_to_OOP/2.classes.md",
     "Programming_with_JS/6.Introduction_to_OOP/1.introduction.md",
-    "Programming_with_JS/intro_to_js.md",
-    "Programming_with_JS/Modules.md"
+    "Programming_with_JS/intro_to_js.md"
   ]
 }
