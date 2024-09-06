@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming_with_JS/6.Introduction_to_OOP/2.classes.md",
+                "file": "Programming_with_JS/6.Introduction_to_OOP/3.oop_principles.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming_with_JS/6.Introduction_to_OOP/2.classes.md",
+                "file": "Programming_with_JS/6.Introduction_to_OOP/3.oop_principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming_with_JS/6.Introduction_to_OOP/2.classes.md",
+                "file": "Programming_with_JS/6.Introduction_to_OOP/3.oop_principles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming_with_JS/6.Introduction_to_OOP/2.classes.md"
+                "file": "Programming_with_JS/6.Introduction_to_OOP/3.oop_principles.md"
               }
             }
           },
@@ -155,8 +155,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c8e638c02acbad21",
+  "active": "c9eb0984f954e8cc",
   "lastOpenFiles": [
+    "Programming_with_JS/6.Introduction_to_OOP/2.classes.md",
+    "Programming_with_JS/6.Introduction_to_OOP/3.oop_principles.md",
     "Programming_with_JS/6.Introduction_to_OOP/This is a git test for obsidian.md",
     "Programming_with_JS/Modules.md",
     "Programming_with_JS/5.Introduction_to_functional_programming/1.introduction_to_functional_programming.md",
@@ -167,7 +169,6 @@
     "Programming_with_JS/3.Array,Objects&Functions/7.closer_look_at_strings.md",
     "Programming_with_JS/3.Array,Objects&Functions/7.1.strings_cheat_sheet.md",
     "Untitled.md",
-    "Programming_with_JS/6.Introduction_to_OOP/2.classes.md",
     "Programming_with_JS/6.Introduction_to_OOP/1.introduction.md",
     "Programming_with_JS/intro_to_js.md"
   ]
