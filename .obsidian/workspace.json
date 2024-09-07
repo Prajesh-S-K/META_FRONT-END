@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming_with_JS/6.Introduction_to_OOP/3.oop_principles.md",
+                "file": "Programming_with_JS/6.Introduction_to_OOP/4.constructor.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming_with_JS/6.Introduction_to_OOP/3.oop_principles.md",
+                "file": "Programming_with_JS/6.Introduction_to_OOP/4.constructor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming_with_JS/6.Introduction_to_OOP/3.oop_principles.md",
+                "file": "Programming_with_JS/6.Introduction_to_OOP/4.constructor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming_with_JS/6.Introduction_to_OOP/3.oop_principles.md"
+                "file": "Programming_with_JS/6.Introduction_to_OOP/4.constructor.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "c9eb0984f954e8cc",
   "lastOpenFiles": [
-    "Programming_with_JS/6.Introduction_to_OOP/2.classes.md",
     "Programming_with_JS/6.Introduction_to_OOP/3.oop_principles.md",
+    "Programming_with_JS/6.Introduction_to_OOP/4.constructor.md",
+    "Programming_with_JS/6.Introduction_to_OOP/2.classes.md",
     "Programming_with_JS/6.Introduction_to_OOP/This is a git test for obsidian.md",
     "Programming_with_JS/Modules.md",
     "Programming_with_JS/5.Introduction_to_functional_programming/1.introduction_to_functional_programming.md",
