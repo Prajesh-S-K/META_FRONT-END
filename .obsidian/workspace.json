@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming_with_JS/6.Introduction_to_OOP/4.constructor.md",
+                "file": "Programming_with_JS/8.JS_in_browser/3.js_selectors.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming_with_JS/6.Introduction_to_OOP/4.constructor.md",
+                "file": "Programming_with_JS/8.JS_in_browser/3.js_selectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming_with_JS/6.Introduction_to_OOP/4.constructor.md",
+                "file": "Programming_with_JS/8.JS_in_browser/3.js_selectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming_with_JS/6.Introduction_to_OOP/4.constructor.md"
+                "file": "Programming_with_JS/8.JS_in_browser/3.js_selectors.md"
               }
             }
           },
@@ -157,8 +157,21 @@
   },
   "active": "c9eb0984f954e8cc",
   "lastOpenFiles": [
-    "Programming_with_JS/6.Introduction_to_OOP/3.oop_principles.md",
+    "Programming_with_JS/8.JS_in_browser/2.js_DOM.md",
+    "Programming_with_JS/8.JS_in_browser/3.js_selectors.md",
+    "Programming_with_JS/8.JS_in_browser/1.JS_modules.md",
+    "Programming_with_JS/7.Advanced_JS_feature/5.data_methods.md",
+    "Programming_with_JS/8.JS_in_browser",
+    "Programming_with_JS/7.Advanced_JS_feature/8.JS_in_browser",
+    "Programming_with_JS/7.Advanced_JS_feature/7.rest_operator.md",
+    "Programming_with_JS/7.Advanced_JS_feature/6.spread_operator.md",
+    "Programming_with_JS/7.Advanced_JS_feature/4.Data_structures.md",
+    "Programming_with_JS/7.Advanced_JS_feature/3.template_literals.md",
+    "Programming_with_JS/7.Advanced_JS_feature/2.for-of_loops&objects.md",
+    "Programming_with_JS/7.Advanced_JS_feature/1.destructuring_arrays&objects.md",
     "Programming_with_JS/6.Introduction_to_OOP/4.constructor.md",
+    "Programming_with_JS/7.Advanced_JS_feature",
+    "Programming_with_JS/6.Introduction_to_OOP/3.oop_principles.md",
     "Programming_with_JS/6.Introduction_to_OOP/2.classes.md",
     "Programming_with_JS/6.Introduction_to_OOP/This is a git test for obsidian.md",
     "Programming_with_JS/Modules.md",
