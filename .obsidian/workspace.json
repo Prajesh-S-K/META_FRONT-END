@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming_with_JS/8.JS_in_browser/3.js_selectors.md",
+                "file": "Programming_with_JS/8.JS_in_browser/4.event_handler.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming_with_JS/8.JS_in_browser/3.js_selectors.md",
+                "file": "Programming_with_JS/8.JS_in_browser/4.event_handler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming_with_JS/8.JS_in_browser/3.js_selectors.md",
+                "file": "Programming_with_JS/8.JS_in_browser/4.event_handler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming_with_JS/8.JS_in_browser/3.js_selectors.md"
+                "file": "Programming_with_JS/8.JS_in_browser/4.event_handler.md"
               }
             }
           },
@@ -158,6 +158,7 @@
   "active": "c9eb0984f954e8cc",
   "lastOpenFiles": [
     "Programming_with_JS/8.JS_in_browser/2.js_DOM.md",
+    "Programming_with_JS/8.JS_in_browser/4.event_handler.md",
     "Programming_with_JS/8.JS_in_browser/3.js_selectors.md",
     "Programming_with_JS/8.JS_in_browser/1.JS_modules.md",
     "Programming_with_JS/7.Advanced_JS_feature/5.data_methods.md",
