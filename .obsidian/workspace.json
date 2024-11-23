@@ -190,6 +190,13 @@
   },
   "active": "b6188086b02c1300",
   "lastOpenFiles": [
+    "3.version_control/intro_to_vc/github-git-cheat-sheet.pdf",
+    "3.version_control/intro_to_vc/what_is_vc.md",
+    "3.version_control/intro_to_vc",
+    "3.version_control/into_to_vc/what_is_vc.md",
+    "3.version_control/into_to_vc",
+    "3.version_control/modules.md",
+    "3.version_control",
     "Credentials/programming_wit_js.pdf",
     "Credentials/Coursera EYI7SOULBHL3.pdf",
     "Programming_with_JS/10.finals/finalproject.js",
@@ -198,10 +205,6 @@
     "Programming_with_JS/9.Testing/installing_jest/test_function.test.js",
     "Programming_with_JS/9.Testing/installing_jest/test_function.js",
     "package-lock.json",
-    "node_modules/fsevents/build/config.gypi",
-    "node_modules/fsevents/build",
-    "node_modules/@types/node/ts5.6/index.d.ts",
-    "node_modules/@types/node/ts5.6/globals.typedarray.d.ts",
     "node_modules/istanbul-reports/README.md",
     "node_modules/istanbul-reports/CHANGELOG.md",
     "node_modules/jest-snapshot/node_modules/semver/README.md",
@@ -226,9 +229,6 @@
     "node_modules/jest-validate/README.md",
     "node_modules/@types/istanbul-reports/README.md",
     "node_modules/istanbul-lib-instrument/README.md",
-    "node_modules/@jridgewell/trace-mapping/README.md",
-    "node_modules/istanbul-lib-instrument/CHANGELOG.md",
-    "node_modules/jest-worker/README.md",
-    "node_modules/pretty-format/README.md"
+    "node_modules/@jridgewell/trace-mapping/README.md"
   ]
 }
