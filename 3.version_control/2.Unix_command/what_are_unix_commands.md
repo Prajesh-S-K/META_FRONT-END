@@ -31,4 +31,3 @@
 ## Conclusion
 - Mastering Unix commands is essential for effective software development and system management.
 
-dgrtttrer
