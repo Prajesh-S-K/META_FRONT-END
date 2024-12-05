@@ -190,6 +190,13 @@
   },
   "active": "b6188086b02c1300",
   "lastOpenFiles": [
+    "3.version_control/3.git_&_github/3.workflow.md",
+    "3.version_control/3.git_&_github/2.git_workflow.md",
+    "3.version_control/3.git_&_github/1.What_is_git&github.md",
+    "3.version_control/3.git_&_github",
+    "3.version_control/2.Unix_command/6.GREP.md",
+    "3.version_control/2.Unix_command/5.redirection.md",
+    "3.version_control/2.Unix_command/4.pipes.md",
     "3.version_control/2.Unix_command/what_are_unix_commands.md",
     "3.version_control/2.Unix_command/1.the_command_line.md",
     "3.version_control/2.Unix_command",
@@ -207,7 +214,6 @@
     "Programming_with_JS/10.finals/finalproject.js",
     "Programming_with_JS/10.finals",
     "Programming_with_JS/9.Testing/4.tdd.md",
-    "Programming_with_JS/9.Testing/installing_jest/test_function.test.js",
     "node_modules/istanbul-reports/README.md",
     "node_modules/istanbul-reports/CHANGELOG.md",
     "node_modules/jest-snapshot/node_modules/semver/README.md",
@@ -223,12 +229,6 @@
     "node_modules/make-dir/node_modules/semver/README.md",
     "node_modules/@types/node/README.md",
     "node_modules/import-local/readme.md",
-    "node_modules/@types/istanbul-lib-coverage/README.md",
-    "node_modules/caniuse-lite/README.md",
-    "node_modules/ci-info/README.md",
-    "node_modules/jest-util/Readme.md",
-    "node_modules/jest-changed-files/README.md",
-    "node_modules/ci-info/CHANGELOG.md",
-    "node_modules/jest-validate/README.md"
+    "node_modules/@types/istanbul-lib-coverage/README.md"
   ]
 }
