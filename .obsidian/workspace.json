@@ -190,6 +190,11 @@
   },
   "active": "b6188086b02c1300",
   "lastOpenFiles": [
+    "4.html_&_css_in_dept/1.course_introduction/1.introduction.md",
+    "4.html_&_css_in_dept/1.course_introduction",
+    "4.html_&_css_in_dept",
+    "Credentials/version_control.pdf",
+    "Credentials/Coursera KRV9RZ8WFV0B.pdf",
     "3.version_control/3.git_&_github/3.workflow.md",
     "3.version_control/3.git_&_github/2.git_workflow.md",
     "3.version_control/3.git_&_github/1.What_is_git&github.md",
@@ -209,10 +214,6 @@
     "3.version_control/into_to_vc",
     "3.version_control/modules.md",
     "3.version_control",
-    "Credentials/programming_wit_js.pdf",
-    "Credentials/Coursera EYI7SOULBHL3.pdf",
-    "Programming_with_JS/10.finals/finalproject.js",
-    "Programming_with_JS/10.finals",
     "Programming_with_JS/9.Testing/4.tdd.md",
     "node_modules/istanbul-reports/README.md",
     "node_modules/istanbul-reports/CHANGELOG.md",
@@ -228,7 +229,6 @@
     "node_modules/@jest/reporters/assets/jest_logo.png",
     "node_modules/make-dir/node_modules/semver/README.md",
     "node_modules/@types/node/README.md",
-    "node_modules/import-local/readme.md",
-    "node_modules/@types/istanbul-lib-coverage/README.md"
+    "node_modules/import-local/readme.md"
   ]
 }
