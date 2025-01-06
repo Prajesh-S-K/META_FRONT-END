@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming_with_JS/Modules.md",
+                "file": "4.html_&_css_in_dept/2.semantics&Meta_tags/4.metadata_cheatcheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modules"
+              "title": "4.metadata_cheatcheet"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming_with_JS/Modules.md",
+                "file": "4.html_&_css_in_dept/2.semantics&Meta_tags/4.metadata_cheatcheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Modules"
+              "title": "Backlinks for 4.metadata_cheatcheet"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming_with_JS/Modules.md",
+                "file": "4.html_&_css_in_dept/2.semantics&Meta_tags/4.metadata_cheatcheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Modules"
+              "title": "Outgoing links from 4.metadata_cheatcheet"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming_with_JS/Modules.md"
+                "file": "4.html_&_css_in_dept/2.semantics&Meta_tags/4.metadata_cheatcheet.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Modules"
+              "title": "Outline of 4.metadata_cheatcheet"
             }
           },
           {
@@ -190,45 +190,45 @@
   },
   "active": "b6188086b02c1300",
   "lastOpenFiles": [
+    "4.html_&_css_in_dept/3.user_input&forms/2.imput_types.md",
+    "4.html_&_css_in_dept/3.user_input&forms/1.forms&validation.md",
+    "4.html_&_css_in_dept/3.user_input&forms",
+    "4.html_&_css_in_dept/2.semantics&Meta_tags/6.littlelemmon-adding-meta-tags-og.html",
+    "4.html_&_css_in_dept/2.semantics&Meta_tags/5.layout_design.md",
+    "template.mine/js/source.js",
+    "template.mine/js",
+    "template.mine/styles/style.css",
+    "template.mine/styles",
+    "template.mine/pages/index.html",
+    "template.mine/pages",
+    "template.mine",
+    "4.html_&_css_in_dept/2.semantics&Meta_tags/3.metadata.md",
+    "4.html_&_css_in_dept/2.semantics&Meta_tags/2.common_semantics.md",
+    "4.html_&_css_in_dept/2.semantics&Meta_tags/1.sematics_tag.md",
+    "4.html_&_css_in_dept/1.course_introduction/2.course_syllabus.md",
     "4.html_&_css_in_dept/1.course_introduction/1.introduction.md",
-    "4.html_&_css_in_dept/1.course_introduction",
-    "4.html_&_css_in_dept",
-    "Credentials/version_control.pdf",
-    "Credentials/Coursera KRV9RZ8WFV0B.pdf",
+    "Programming_with_JS/Modules.md",
+    "4.html_&_css_in_dept/2.semantics&Meta_tags/4.metadata_cheatcheet.md",
+    "4.html_&_css_in_dept/2.semantics&Meta_tags",
+    "Introduction to Front-End Development/cheatsheet/cheatsheet.md",
     "3.version_control/3.git_&_github/3.workflow.md",
     "3.version_control/3.git_&_github/2.git_workflow.md",
     "3.version_control/3.git_&_github/1.What_is_git&github.md",
-    "3.version_control/3.git_&_github",
     "3.version_control/2.Unix_command/6.GREP.md",
     "3.version_control/2.Unix_command/5.redirection.md",
     "3.version_control/2.Unix_command/4.pipes.md",
     "3.version_control/2.Unix_command/what_are_unix_commands.md",
     "3.version_control/2.Unix_command/1.the_command_line.md",
-    "3.version_control/2.Unix_command",
     "3.version_control/intro_to_vc/3.staging_vs_production.md",
     "3.version_control/intro_to_vc/2.history_of_revisions.md",
-    "3.version_control/intro_to_vc/github-git-cheat-sheet.pdf",
     "3.version_control/intro_to_vc/what_is_vc.md",
-    "3.version_control/intro_to_vc",
     "3.version_control/into_to_vc/what_is_vc.md",
-    "3.version_control/into_to_vc",
     "3.version_control/modules.md",
-    "3.version_control",
     "Programming_with_JS/9.Testing/4.tdd.md",
     "node_modules/istanbul-reports/README.md",
-    "node_modules/istanbul-reports/CHANGELOG.md",
-    "node_modules/jest-snapshot/node_modules/semver/README.md",
-    "node_modules/@jest/types/README.md",
-    "node_modules/jest-cli/README.md",
-    "node_modules/@jest/core/README.md",
-    "node_modules/jest/README.md",
-    "node_modules/istanbul-lib-instrument/node_modules/semver/README.md",
     "node_modules/istanbul-reports/lib/html-spa/assets/sort-arrow-sprite.png",
     "node_modules/istanbul-reports/lib/html/assets/sort-arrow-sprite.png",
     "node_modules/istanbul-reports/lib/html/assets/favicon.png",
-    "node_modules/@jest/reporters/assets/jest_logo.png",
-    "node_modules/make-dir/node_modules/semver/README.md",
-    "node_modules/@types/node/README.md",
-    "node_modules/import-local/readme.md"
+    "node_modules/@jest/reporters/assets/jest_logo.png"
   ]
 }

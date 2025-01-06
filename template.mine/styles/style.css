@@ -1,0 +1,46 @@
+/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styles */
+body {
+    font-family: Arial, sans-serif; /* Change to your preferred font */
+    line-height: 1.6;
+    background-color: #f4f4f4; /* Light background color */
+    color: #333; /* Dark text color */
+}
+
+/* Header styles */
+header {
+    background: #35424a; /* Dark background for header */
+    color: #ffffff; /* White text color */
+    padding: 20px 0; /* Padding for header */
+    text-align: center; /* Center align text */
+}
+
+/* Navigation styles */
+nav {
+    margin: 20px 0; /* Margin for navigation */
+}
+
+nav a {
+    color: #ffffff; /* White text for links */
+    text-decoration: none; /* Remove underline */
+    margin: 0 15px; /* Space between links */
+}
+
+/* Main content styles */
+main {
+    padding: 20px; /* Padding for main content */
+}
+
+/* Footer styles */
+footer {
+    text-align: center; /* Center align footer text */
+    padding: 10px 0; /* Padding for footer */
+    background: #35424a; /* Same background as header */
+    color: #ffffff; /* White text color */
+}
