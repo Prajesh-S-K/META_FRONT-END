@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Effects Example</title>
+    <style>
+        .text-overflow {
+            width: 200px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis; /* Change to 'clip' for clipping effect */
+            border: 1px solid #000;
+        }
+
+        .vertical-text {
+            writing-mode: vertical-rl;
+            border: 1px solid #000;
+            height: 100px;
+            width: 50px;
+        }
+
+        .word-wrap {
+            width: 200px;
+            word-wrap: break-word;
+            border: 1px solid #000;
+        }
+
+        .text-shadow {
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+        }
+
+        .glow {
+            text-shadow: 0 0 5px #00f, 0 0 10px #00f, 0 0 15px #00f;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Text Overflow Example</h2>
+    <div class="text-overflow">This is a long text that will overflow and show ellipsis...</div>
+
+    <h2>Vertical Text Example</h2>
+    <div class="vertical-text">Vertical Text</div>
+
+    <h2>Word Wrap Example</h2>
+    <div class="word-wrap">This is a verylongwordthatwillbreakandwrapontoanewline.</div>
+
+    <h2>Text Shadow Example</h2>
+    <div class="text-shadow">Text with Shadow Effect</div>
+
+    <h2>Glow Effect Example</h2>
+    <div class="glow">Glowing Text Effect</div>
+
+</body>
+</html>

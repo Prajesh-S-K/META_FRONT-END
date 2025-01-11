@@ -1,0 +1,74 @@
+### Simple Selectors
+
+| Selector Type       | Syntax                     |
+|---------------------|----------------------------|
+| Element Selector     | `element`                  |
+| Class Selector       | `.class`                   |
+| ID Selector          | `#id`                      |
+| Universal Selector   | `*`                        |
+
+### Variations of Simple Selectors
+
+| Variation Type       | Syntax                             |
+|----------------------|------------------------------------|
+| Two Classes          | `.first-class.second-class`        |
+| Element and Class    | `element.class`                    |
+| Two Elements         | `element, element`                 |
+| Descendant Selector   | `element element`                  |
+| Child Selector       | `element > element`                |
+| Adjacent Sibling     | `element + element`                |
+| General Sibling      | `element ~ element`                |
+
+### Attribute Selectors
+
+| Selector Type        | Syntax                     |
+|----------------------|----------------------------|
+| Attribute Selector    | `[attribute]`              |
+| Attribute Equals      | `[attribute=value]`        |
+| Attribute Contains     | `[attribute~=value]`       |
+| Attribute Starts With  | `[attribute^=value]`       |
+| Attribute Ends With    | `[attribute$=value]`       |
+| Attribute Contains Substring | `[attribute*=value]` |
+
+### Pseudo-classes
+
+| Pseudo-class Type    | Syntax                     |
+|----------------------|----------------------------|
+| Active               | `:active`                  |
+| Checked              | `:checked`                 |
+| Default              | `:default`                 |
+| Disabled             | `:disabled`                |
+| Empty                | `:empty`                   |
+| Enabled              | `:enabled`                 |
+| First Child          | `:first-child`             |
+| First of Type       | `:first-of-type`           |
+| Focus                | `:focus`                   |
+| Fullscreen           | `:fullscreen`              |
+| Hover                | `:hover`                   |
+| Invalid              | `:invalid`                 |
+| Last Child           | `:last-child`              |
+| Last of Type        | `:last-of-type`            |
+| Link                 | `:link`                    |
+| Not Selector         | `:not(selector)`           |
+| Nth Child           | `:nth-child(n)`            |
+| Nth Last Child      | `:nth-last-child(n)`       |
+| Nth Last of Type    | `:nth-last-of-type(n)`     |
+| Nth of Type         | `:nth-of-type(n)`          |
+| Only of Type        | `:only-of-type`            |
+| Only Child          | `:only-child`              |
+| Optional            | `:optional`                |
+| Required            | `:required`                |
+| Root                | `:root`                    |
+| Valid               | `:valid`                   |
+| Visited             | `:visited`                 |
+
+### Pseudo-element Selectors
+
+| Pseudo-element Type  | Syntax                     |
+|----------------------|----------------------------|
+| After                | `::after`                  |
+| Before               | `::before`                 |
+| First Letter         | `::first-letter`           |
+| First Line           | `::first-line`             |
+| Placeholder          | `::placeholder`            |
+| Marker               | `::marker`                 |

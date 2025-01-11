@@ -1,0 +1,221 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    line-height: 1.6;
+    background-color: #fdf8e4; /* A warm Mediterranean feel */
+    color: #333;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* Header */
+header {
+    background-color: #f4d03f; /* Lemon yellow */
+    padding: 1rem;
+    text-align: center;
+    border-bottom: 4px solid #d35400; /* Rustic orange */
+}
+
+header .logo img {
+    max-width: auto; /* Match the header text size */
+    height: auto;
+    vertical-align: middle;
+}
+
+header h1 {
+    display: inline;
+    font-size: 2rem;
+    color: #333;
+    margin-left: 10px;
+    font-family: 'Georgia', serif;
+}
+
+/* Navigation */
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    background-color: #d35400; /* Rustic orange */
+    margin: 0;
+}
+
+nav ul li {
+    margin: 0 1rem;
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-size: 1.1rem;
+    color: white;
+    padding: 0.5rem 1rem;
+    transition: background-color 0.3s ease;
+}
+
+nav ul li a:hover {
+    background-color: #e59866;
+    border-radius: 5px;
+}
+
+/* Promo Banner */
+.promo-banner {
+    background-color: #f7dc6f; /* Light yellow */
+    text-align: center;
+    padding: 2rem 1rem;
+    margin: 1rem 0;
+}
+
+.promo-banner h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.promo-banner .cta {
+    background-color: #d35400;
+    color: white;
+    text-decoration: none;
+    padding: 0.7rem 1.5rem;
+    border-radius: 5px;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.promo-banner .cta:hover {
+    background-color: #e59866;
+}
+
+/* About Section */
+.about {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+    text-align: center;
+}
+
+.about h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.about p {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.about p.expanded {
+    display: block;
+    -webkit-line-clamp: unset;
+    overflow: visible;
+}
+
+.about .load-more {
+    background-color: #d35400;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.about .load-more:hover {
+    background-color: #e59866;
+}
+
+/* Reviews Section */
+.reviews {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+    padding: 2rem 1rem;
+    background-color: #fef9e7; /* Light beige */
+}
+
+.review-card {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 1rem;
+    text-align: center;
+    max-width: 300px;
+    flex: 1 1 calc(33.333% - 2rem);
+}
+
+.review-card h3 {
+    font-size: 1.2rem;
+    color: #d35400;
+    margin-bottom: 0.5rem;
+}
+
+.review-card p {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+}
+
+.review-card .rating {
+    color: #f4d03f; /* Star yellow */
+    font-size: 1.5rem;
+}
+
+/* Footer */
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: #333;
+    color: white;
+    flex-wrap: wrap;
+}
+
+.footer-logo img {
+    max-width: 30px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.footer-logo p {
+    display: inline;
+    font-size: 1rem;
+}
+
+.footer-text {
+    font-size: 0.9rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .promo-banner h2 {
+        font-size: 1.5rem;
+    }
+
+    .review-card {
+        flex: 1 1 100%;
+    }
+
+    nav ul {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    nav ul li {
+        margin: 0.5rem 0;
+    }
+
+    footer {
+        flex-direction: column;
+        text-align: center;
+    }
+}
